@@ -1,3 +1,10 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+title: [Computation II]
+description: [Initial setups and lectures for Computation II]
+
+show_downloads: [false]
+google_analytics: [Your Google Analytics tracking ID]
